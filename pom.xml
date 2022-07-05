@@ -97,13 +97,13 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>nexus-release</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://35.175.173.160:8081/repository/nexus-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
+	      <id>nexus-snap</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://35.175.173.160:8081/repository/nexus-snap/</url>
 	    </snapshotRepository>
